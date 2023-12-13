@@ -9,18 +9,18 @@ Bem-vindo ao Jogo da Forca! Este é um jogo simples de forca implementado em Jav
 ## Instalação
 
 1. Clone o repositório:
-
-   ```bash
    git clone https://github.com/karismasousa/jogoDaForca
 
    ## 1. Navegue até o diretório do projeto:
    cd nome-do-seu-projeto
+   
    ## 2. Instale as dependências:
    npm install
 
 # Como Jogar
 ### 1. Inicie o jogo:
 node projeto.js
+
 ### 2. Siga as instruções no terminal para fazer suas jogadas.
 
 #Contribuições
